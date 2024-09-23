@@ -5,8 +5,10 @@ body {
   font-style: normal
 }
 img {
-  width: 250px;
-  height: auto;
+  width: 150px; 
+  height: 150px; 
+  border-radius: 50%; 
+  object-fit: cover; 
 }
 h1 {
   color: black;
